@@ -1,0 +1,65 @@
+body{
+  background-image:url(https://cdn.dribbble.com/userupload/6877836/file/original-ae9c56c2a400ff1853fa2ce05612157f.png?resize=1200x900);
+  background-size:cover;
+  background-repeat:no-repeat;
+}
+.heading{
+  text-decoration: underline;
+}
+label{
+  font-size:22px;
+  font-weight: bold;
+}
+.request{
+  text-align:center;
+  border-style:0.5px solid;
+  padding:25px;
+  margin-right:200px;
+  margin-left:200px;
+  background:white;
+  opacity:70%;
+  margin-top:40px;
+  border: 1px solid black;
+}
+.sumbit{
+  border-style: 0.2px solid;
+  padding:10px;
+  width:200px;
+  background:green;
+  margin-top:10px;
+  color:white;
+  border: 2px solid black;
+}
+.sumbit:hover{
+  width:500px;
+  background:black;
+  border: 2px solid gainsboro;
+}
+input{
+  font-size:22px;
+  width:200px;
+  padding:5px;
+  border: 2px solid black;
+}
+select{
+  width:100px;
+  font-size:20px;
+  border: 2px solid black;
+}
+.nte{
+  font-size:30px;
+}
+.note{
+  border-style:2px solid;
+  background:black;
+  padding:5px;
+  color:white;
+  border-radius:20px;
+  margin-top:4px;
+  padding-bottom:10px;
+}
+.notes{
+  width:500px;
+  height:150px;
+  font-size:20px;
+}

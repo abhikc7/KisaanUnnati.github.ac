@@ -1,0 +1,52 @@
+<html>
+  <head>
+    <title>Request Something</title>
+    <link rel="stylesheet" href="requests.css">
+    <link rel="website icon" type="png" href="assets/service-1.png">
+  </head>
+  <body>
+    <div class="request">
+    <h1 class="heading">Request from nearby farmers</h1>
+     <label for="fname">First name:</label><br>
+  <input type="text" id="fname" name="fname">
+  <br>
+  <label for="lname">Last name:</label><br>
+  <input type="text" id="lname" name="lname"><br><br>
+    <form action="/action_page.php">
+      <h2>Which item do you want</h2>
+  <label for="grain">Grain</label>
+  <select id="grain" name="grain">
+    <option value="wheat">Wheat</option>
+    <option value="rice">Rice</option>
+    <option value="bajra">Bajra</option>
+    <option value="jowar">Jowar</option>
+  </select>
+      <label for="grain">Pulses</label>
+  <select id="grain" name="pulses">
+    <option value="arhar">Arhar dal</option>
+    <option value="urad">Urad</option>
+    <option value="masoor">Masoor</option>
+    <option value="moong">Moong</option>
+  </select>
+       <label for="grain">Vegetable</label>
+  <select id="grain" name="veg">
+    <option value="arhar">Potato</option>
+    <option value="urad">Tomato</option>
+    <option value="masoor">Onion</option>
+    <option value="moong">Cauliflower</option>
+  </select>
+      <br>
+      <br>
+      <form action="/action_page.php">
+  <label for="quantity">Quantity </label>
+  <input type="number" id="quantity" name="quantity" min="1" max="1000">
+ 
+</form>
+      
+      <div class="note"> <label class="nte" for="fname">Add a note</label><br>
+        <textarea class="notes" type="text" id="note" name="fname"></textarea>
+        <br></div>
+      <button class="sumbit">Sumbit</button>
+      </div>
+      </body>
+</html>
