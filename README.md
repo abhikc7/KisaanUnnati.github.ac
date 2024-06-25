@@ -54,7 +54,7 @@
 
 
 # License :
-This project is free to use and doesnt contains any license.
+ It is a GNU ( General Publice Licence ) , This project is free to use and doesnt contains any license. 
 
 # Usage :
 * Crop Information
