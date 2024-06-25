@@ -1,6 +1,6 @@
 
-<h2 align="center">Groomer & Hair Haven - Groomer Website</h2>
-# Kisaan Unnati🌱⛏️
+<h2 align="center">Kisaan Unnati🌱⛏️
+- Farmer Development Website</h2>
       
 # A platform for farmers of next generation :
 
