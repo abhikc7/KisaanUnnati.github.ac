@@ -1,15 +1,12 @@
-
-<h2 align="center">Kisaan Unnati🌱⛏️
+<h2 align="center"> Kisaan Unnati🌱⛏️
 - Farmer Development Website</h2>
       
+
 # A platform for farmers of next generation :
 
         Kisaan Unnati is a platform designed to empower farmers by providing them with crucial information, resources, and tools to enhance their agricultural practices and improve their livelihoods.
 
- # Introducation :
-
-         Kisaan Unnati aims to bridge the gap between technology and agriculture. By leveraging modern technology, we provide farmers with access to weather forecasts, market prices, best practices, and expert advice. Our goal is to improve the efficiency and productivity of farming operations, leading to better yields and higher incomes for farmers. 
-         
+ 
  # Table of Contents:
 
  * Introduction 
@@ -20,10 +17,23 @@
 
  * License    
 
- * Usage  
+ * Usage
+
+ * Prerequisities
+
+ * Live Demo
+
+ * Contact
+
+
+ # Introducation :
+
+         Kisaan Unnati aims to bridge the gap between technology and agriculture. By leveraging modern technology, we provide farmers with access to weather forecasts, market prices, best practices, and expert advice. Our goal is to improve the efficiency and productivity of farming operations, leading to better yields and higher incomes for farmers. 
+         
 
 # Technology Stack: 
         * Frontend: HTML , CSS , JavaScript
+
 
 # Here are some key points of websites :
 
@@ -40,10 +50,45 @@
 
 * "Kisaan suvidha" for EMI and loans options👍.
   
-# Kissan Unnati 
-
 * "Complaint form" to resolve the issues faced by anyone.
 
-# This project is licensed under the MIT License. See the LICENSE file for more details.
+
+# License :
+This project is free to use and doesnt contains any license.
+
+# Usage :
+* Crop Information
+
+* Market Prices
+
+* Government Schemes
+
+* Soil Testing
+
+* Farm Machinery
+
+* Expert Consultation
+
+* Agri News and Updates
+
+* Community Interaction
+
+
+# Prerequisites :
+      Before you begin, ensure you have met the following requirements:
+
+* [Git](https://git-scm.com/downloads "Download Git") must be installed on your operating system.
+
+<br>
+
+# Live Demo :
+<a href=""><strong>➥ Live Demo</strong></a>
+
+<br>
+
+# Contact :
+  If you want to contact with me you can reach me at [Instagram](https://www.instagram.com/.a.b.h.i.j.a.t./).
+
+# Kisaan Unnati
 
 
